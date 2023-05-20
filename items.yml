@@ -1,0 +1,99 @@
+items:
+  - name: Cccc
+    price: 10
+    hashtags:
+      - H2
+      - H3
+    description: this is i_1 from the example
+  - name: Bbbb
+    price: 20
+    hashtags:
+      - H1
+    description: this is i_2 from the exmaple
+  - name: Aaaa
+    price: 30
+    hashtags:
+      - H3
+    description: this is i_3 from the example
+  - name: Shopping Cart 1
+    price: 40
+    hashtags:
+      - H1
+      - H2
+    description: this is the first item in the shopping cart for the example
+  - name: Shopping Cart 2
+    price: 50
+    hashtags:
+      - H1
+      - H3
+    description: this is the second item in the shopping cart for the example
+  - name: Harry Potter and the Deathly Hallows
+    price: 10
+    hashtags:
+      - Harry Potter
+      - Fantasy
+      - Book
+      - 2000's
+      - Magic
+      - J.K. Rowling
+    description: The 7th Book in the series of Harry Potter.
+  - name: Nintendo Switch
+    price: 300
+    hashtags:
+      - Gaming
+      - Nintendo
+      - Console
+      - Mobile
+      - Technology
+    description: The latest Gaming Console of Nintendo!
+  - name: Warcraft III
+    price: 30
+    hashtags:
+      - Gaming
+      - Fantasy
+      - PC
+      - Warcraft
+      - Management
+      - Blizzard
+    description: These are getting harder and harder to write...
+  - name: The Life-Changing Magic of Tidying Up
+    price: 7
+    hashtags:
+      - Book
+      - Marie Kondo
+      - Management
+      - Cleaning
+      - Organizing
+    description: Learn to tidy your life with this best-selling book!
+  - name: Apple AirPods Pro
+    price: 219
+    hashtags:
+      - Technology
+      - Apple
+      - Earbuds
+      - Headphones
+      - Music
+      - Wireless
+    description: |
+      Yeah.. I don't know...
+      They're te latest Apple wireless earbuds
+  - name: 1989 Taylor Swift
+    price: 16
+    hashtags:
+      - Music
+      - Taylor Swift
+      - Pop
+    description: What a great album, right?!
+  - name: Oculus Rift
+    price: 300
+    hashtags:
+      - Technology
+      - Gaming
+      - Wireless
+      - VR
+      - Facebook
+      - Console
+    description: |
+      Facebook brings you the best VR headset gaming console.
+      Oculus Rift has various of incredible games with stunning views.
+      Featuring more immersive experience than ever before!
